@@ -1,5 +1,5 @@
 <p align='center'>
- <b>Rehau Selected PII</b>
+ <b>Vue-cli-graphql</b>
 </p>
 
 
